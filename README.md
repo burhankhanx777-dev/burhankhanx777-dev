@@ -1,3 +1,5 @@
+![GitHub Profile Banner](github-banner.png)
+
 # Hey, I'm Ray 👋
 
 ### Computer Science Student | C++ & DSA | Learning by Building 🚀
